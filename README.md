@@ -4,3 +4,4 @@
 ![priority](https://github.com/Daydream0929/Image/blob/main/priority.png)
 
 ![timepiece](https://github.com/Daydream0929/Image/blob/main/timepiece.png)
+![OS](https://github.com/Daydream0929/Image/blob/main/os.png)
